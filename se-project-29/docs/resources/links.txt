@@ -1,0 +1,5 @@
+Conference Paper su Docker Security Playground:
+https://www.researchgate.net/publication/321737981_The_Docker_Security_Playground_A_hands-on_approach_to_the_study_of_network_security
+
+Repo di GitHub di Docker Security Playground:
+https://github.com/giper45/DockerSecurityPlayground
